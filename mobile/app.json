@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "AFQA Vidracaria",
+    "slug": "afqa-vidracaria",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
